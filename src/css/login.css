@@ -1,0 +1,41 @@
+.login-contenar{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #212121;
+    
+}
+.login-form{
+    width: 32%;
+    background-color: #fff;
+    padding: 30px 30px;
+   border-radius: 8px;
+}
+.login-btn{
+    width: 100%;
+ 
+}
+.forget-password{
+    margin: 15px 0px;
+    display: flex;
+    padding: 0px 10px;
+    justify-content: end;
+     
+}
+.form-email{
+    margin: 20px 0px;
+  cursor: pointer;
+}
+.signup{
+    text-align: center;
+    padding: 10px 0px;
+
+    
+}
+.sign-btn{
+    cursor: pointer;
+    margin: 15px 0px;
+    width: 100%;
+}
